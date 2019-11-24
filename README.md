@@ -5,12 +5,12 @@
 
 ## 相关技术
 
-    1. vuejs4.0：一套构建用户界面的渐进式框架，易用、灵活、高效。
+    1. vue-cli4.0：一套构建用户界面的渐进式框架，易用、灵活、高效。
 	2. vue-router：官方的路由组件，配合vue.js创建单页应用（SPA）非常简单。
 	3. axios: 基于 Promise 的 HTTP 请求客户端，可同时在浏览器和 node.js 中使用。
     4.TypeScript: js语法的超集.
     5.vuex:是一个专为 Vue.js 应用程序开发的状态管理模式
-    scss:CSS扩展语言
+    6.scss:CSS扩展语言
 
 ## 项目编译和运行
 
