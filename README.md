@@ -18,3 +18,6 @@
     - [x] 分别对vue-ts-admin和vuets-api进行初始化才能运行
     - [x] vue-ts-admin前端  初始化 运行cnpm run serve
     - [x] vuets-api后端接口  先初始化，然后运行cnpm run server 如果允许出现错误，查看看看是否全局安装了nodemon，没有的话，全局安装一下，或者直接安装项目中就行
+
+
+项目开发中......
